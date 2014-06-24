@@ -2,6 +2,9 @@
 
 namespace MatrixWalk
 {
+    /// <summary>
+    /// Walks a matrix as per task condition.
+    /// </summary>
     public static class MatrixWalker
     {
         /// <summary>
@@ -43,7 +46,7 @@ namespace MatrixWalk
 
         /// <summary>
         /// Tries to find available neighbour cell as per task condition.
-        /// If successful updates the ref params.
+        /// If successful updates the ref params with the coordinates of next cell the wlak goes through.
         /// </summary>
         /// <param name="matrix">Matrix</param>
         /// <param name="row">Row index of the current cell.</param>

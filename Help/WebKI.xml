@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="Count property" Url="html/dc3ffdd6-8c6d-cd87-c262-02aff74d6440.htm" />
+  <HelpKINode Title="DirectionManager class">
+    <HelpKINode Title="DirectionManager Class" Url="html/d5c72ae3-e463-bf0c-1ff0-b8f9638c9a9e.htm" />
+    <HelpKINode Title="about DirectionManager class" Url="html/d5c72ae3-e463-bf0c-1ff0-b8f9638c9a9e.htm" />
+    <HelpKINode Title="methods" Url="html/6a4310f8-cad7-9b2f-6b1b-b62128992e65.htm" />
+    <HelpKINode Title="properties" Url="html/83f581d8-8ca5-a4c4-3eba-ba231c8e64c3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DirectionManager.Count property" Url="html/dc3ffdd6-8c6d-cd87-c262-02aff74d6440.htm" />
+  <HelpKINode Title="DirectionManager.Direction enumeration" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="DirectionManager.GetDelta method" Url="html/09488ba2-27c9-0673-bb1b-093135f48f39.htm" />
+  <HelpKINode Title="DirectionManager.GetFirst method" Url="html/99b2bc72-46e8-4eed-f86d-c0b6f1fa22f4.htm" />
+  <HelpKINode Title="DirectionManager.GetNext method" Url="html/d9b10070-a40f-767c-abe6-26b676b2a30d.htm" />
+  <HelpKINode Title="Down enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="DownLeft enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="DownRight enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="GetDelta method" Url="html/09488ba2-27c9-0673-bb1b-093135f48f39.htm" />
+  <HelpKINode Title="GetFirst method" Url="html/99b2bc72-46e8-4eed-f86d-c0b6f1fa22f4.htm" />
+  <HelpKINode Title="GetNext method" Url="html/d9b10070-a40f-767c-abe6-26b676b2a30d.htm" />
+  <HelpKINode Title="Left enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="Main method" Url="html/1bce8b8e-38d1-b21f-64f6-48e39a442367.htm" />
+  <HelpKINode Title="MatrixWalk namespace" Url="html/6660d022-5838-2e7f-8339-513f6a8abbad.htm" />
+  <HelpKINode Title="MatrixWalk.DirectionManager class" Url="html/d5c72ae3-e463-bf0c-1ff0-b8f9638c9a9e.htm" />
+  <HelpKINode Title="MatrixWalk.DirectionManager.Direction enumeration" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="MatrixWalk.MatrixWalker class" Url="html/df57df96-c032-213c-6229-1eb0b5785cb7.htm" />
+  <HelpKINode Title="MatrixWalk.RotatingMatrixWalk class" Url="html/eaa344a8-7616-a71c-a5e0-98cd7c104fdf.htm" />
+  <HelpKINode Title="MatrixWalker class">
+    <HelpKINode Title="MatrixWalker Class" Url="html/df57df96-c032-213c-6229-1eb0b5785cb7.htm" />
+    <HelpKINode Title="about MatrixWalker class" Url="html/df57df96-c032-213c-6229-1eb0b5785cb7.htm" />
+    <HelpKINode Title="methods" Url="html/33fb695a-1ec6-fa76-4cfe-1ab6e20a6d04.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MatrixWalker.Walk method" Url="html/9f04b040-41ab-c862-a4e7-f99932aa196e.htm" />
+  <HelpKINode Title="Right enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="RotatingMatrixWalk class">
+    <HelpKINode Title="RotatingMatrixWalk Class" Url="html/eaa344a8-7616-a71c-a5e0-98cd7c104fdf.htm" />
+    <HelpKINode Title="about RotatingMatrixWalk class" Url="html/eaa344a8-7616-a71c-a5e0-98cd7c104fdf.htm" />
+    <HelpKINode Title="methods" Url="html/7169e7ca-68e4-0151-be45-a862058f7345.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RotatingMatrixWalk.Main method" Url="html/1bce8b8e-38d1-b21f-64f6-48e39a442367.htm" />
+  <HelpKINode Title="Up enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="UpLeft enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="UpRight enumeration member" Url="html/bc32b807-1c03-4f39-4ec5-21d6d3dc2e07.htm" />
+  <HelpKINode Title="Walk method" Url="html/9f04b040-41ab-c862-a4e7-f99932aa196e.htm" />
+</HelpKI>
